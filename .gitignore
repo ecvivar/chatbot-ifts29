@@ -1,0 +1,23 @@
+# Dependencias
+node_modules/
+
+# Builds
+frontend/dist/
+backend/dist/
+
+# Entorno
+.env
+.env.local
+.env.production
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Vercel
+.vercel/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
